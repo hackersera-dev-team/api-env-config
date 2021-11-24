@@ -20,6 +20,15 @@
       }
     ]
   },
+  "82076": {
+    "env": "api5-hackersera",
+    "nodes": [
+      {
+        "id": "82076",
+        "ip": "192.168.1.23"
+      }
+    ]
+  },
   "53003": {
     "env": "api-hackersera",
     "nodes": [
